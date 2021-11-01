@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: fantasy;
+    background-image: url("sharingan.gif");
+    background-size: 200px;
+    background-repeat: repeat;
+}
+
+button {
+    background-color: black;
+}
+
+#banner {
+    width: 100%;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+#h {
+    display: inline;
+    color: red;
+}
+
+#inst {
+    float: right;
+    border: 5px solid white;
+    border-radius: 75px;
+    size: 200px;
+}
+
+#play {
+    font-size: 30px;
+    border: 5px solid white;
+    border-radius: 75px;
+}
+
+#back1 {
+    width: 100%;
+}
+
+#idc {
+    color: black;
+}
+
+.imm {
+    display: inline-block;
+    width: 500px;
+}
+
+video {
+    background-image: url("ninntenn.png");
+    background-size: 500px;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    float: left;
+}
+
+canvas {
+    margin-top: 100px;
+}
